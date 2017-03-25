@@ -1,0 +1,26 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "A quick skeleton for a new react project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandy6720/react-skeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandy6720/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/mandy6720/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "watchify": "^3.6.1"
+  }
+}
